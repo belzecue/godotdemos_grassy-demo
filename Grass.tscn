@@ -52,7 +52,9 @@ animations = [ {
 } ]
 
 [sub_resource type="ShaderMaterial" id=11]
+resource_local_to_scene = true
 shader = ExtResource( 3 )
+shader_param/offset = 0.5
 
 [sub_resource type="AtlasTexture" id=10]
 flags = 4
