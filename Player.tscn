@@ -139,5 +139,5 @@ shape = SubResource( 1 )
 position = Vector2( 0, -40 )
 frames = SubResource( 22 )
 animation = "Idle"
-frame = 2
+frame = 1
 playing = true
