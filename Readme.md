@@ -11,7 +11,7 @@ I wanted to recreate this beautiful visual.
 
 ## Tutorial
 
-There's a video version of the tutorial [here](youtu.be).
+There's a video version of the tutorial [here](https://youtu.be/Twamv9Lnhxs).
 
 In short, here are the steps to follow:
 
