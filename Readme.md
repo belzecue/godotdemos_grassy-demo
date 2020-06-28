@@ -25,3 +25,8 @@ In short, here are the steps to follow:
 ## Credits
 
 For the player character I used [this asset](https://lionheart963.itch.io/4-directional-character) by [Warren Clark](https://lionheart963.itch.io/).
+
+## License
+
+The code is [licensed](LICENSE) under [The Unlicense](https://unlicense.org/).
+Basically, you can do whatever you want with the code.
