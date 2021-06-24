@@ -11,6 +11,8 @@ func place_grass(x: int, y: int) -> void:
 	var grass = Grass.instance()
 	# put it at x,y with some randomness added
 	grass.position = Vector2(x + rand_range(-20.0, 20.0),y + rand_range(-5.0,5.0))
+	# create a new shader for this grass instance
+	grass.get_node("Grown").material = grass.get_node("Grown").material.duplicate()
 	# set an offset to the shader so not all the grass is swaying in the same direction
 	grass.get_node("Grown").material.set_shader_param("offset", float(x * y))
 	# add it to the scene
