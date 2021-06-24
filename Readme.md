@@ -24,7 +24,8 @@ In short, here are the steps to follow:
 
 ## Credits
 
-For the player character I used [this asset](https://lionheart963.itch.io/4-directional-character) by [Warren Clark](https://lionheart963.itch.io/).
+For the player character I used [this asset](https://lionheart963.itch.io/4-directional-character) by [Warren Clark](https://lionheart963.itch.io/).  
+[Jenny Lam](https://gitlab.com/jnylam) provided a fix to have the grass sway in different directions in this [Merge Request](https://gitlab.com/godotdemos/grassy-demo/-/merge_requests/1).
 
 ## License
 
